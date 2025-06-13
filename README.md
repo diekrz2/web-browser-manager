@@ -41,3 +41,6 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 * Feren OS
 
 * Zorin OS
+
+# Notes for translators:
+A single .pot file has been created in the po folder. Running the INSTALL script will create the .mo file derived from the .po and will place it in "/usr/share/locale/$lang/LC_MESSAGES". It is also possible to translate the .desktop file in /usr/share/applications
