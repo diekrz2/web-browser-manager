@@ -1,0 +1,780 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# diekrz2 <diekrz2@protonmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-30-05 12:30+0100\n"
+"PO-Revision-Date: 2025-06-13 17:56+0200\n"
+"Last-Translator: diekrz2\n"
+"Language-Team: none\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: bin/browser-manager:184
+msgid "About Brave"
+msgstr "Su Brave"
+
+#: bin/browser-manager:186 bin/browser-manager:195 bin/browser-manager:205 bin/browser-manager:215
+#: bin/browser-manager:225 bin/browser-manager:234 bin/browser-manager:244 bin/browser-manager:255
+#: bin/browser-manager:265 bin/browser-manager:275 bin/browser-manager:338 bin/browser-manager:342
+#: bin/browser-manager:351 bin/browser-manager:355 bin/browser-manager:364 bin/browser-manager:368
+#: bin/browser-manager:377 bin/browser-manager:381 bin/browser-manager:390 bin/browser-manager:394
+#: bin/browser-manager:403 bin/browser-manager:407 bin/browser-manager:416 bin/browser-manager:420
+#: bin/browser-manager:429 bin/browser-manager:433 bin/browser-manager:442 bin/browser-manager:446
+#: bin/browser-manager:455 bin/browser-manager:459
+msgid "Uninstall"
+msgstr "Disinstalla"
+
+#: bin/browser-manager:186 bin/browser-manager:195 bin/browser-manager:205 bin/browser-manager:215
+#: bin/browser-manager:225 bin/browser-manager:234 bin/browser-manager:244 bin/browser-manager:255
+#: bin/browser-manager:265 bin/browser-manager:275 bin/browser-manager:337 bin/browser-manager:343
+#: bin/browser-manager:350 bin/browser-manager:356 bin/browser-manager:363 bin/browser-manager:369
+#: bin/browser-manager:376 bin/browser-manager:382 bin/browser-manager:389 bin/browser-manager:395
+#: bin/browser-manager:402 bin/browser-manager:408 bin/browser-manager:415 bin/browser-manager:421
+#: bin/browser-manager:428 bin/browser-manager:434 bin/browser-manager:441 bin/browser-manager:447
+#: bin/browser-manager:454 bin/browser-manager:460
+msgid "Install"
+msgstr "Installa"
+
+#: bin/browser-manager:193
+msgid "About Chrome"
+msgstr "Su Chrome"
+
+#: bin/browser-manager:203
+msgid "About Chromium"
+msgstr "Su Chromium"
+
+#: bin/browser-manager:213
+msgid "About Falkon"
+msgstr "Su Falkon"
+
+#: bin/browser-manager:223
+msgid "About Firefox"
+msgstr "Su Firefox"
+
+#: bin/browser-manager:232
+msgid "About Opera"
+msgstr "Su Opera"
+
+#: bin/browser-manager:242
+msgid "About Palemoon"
+msgstr "Su Palemoon"
+
+#: bin/browser-manager:253
+msgid "About Slimjet"
+msgstr "Su Slimjet"
+
+#: bin/browser-manager:263
+msgid "About Vivaldi"
+msgstr "Su Vivaldi"
+
+#: bin/browser-manager:273
+msgid "About Waterfox"
+msgstr "Su Waterfox"
+
+#: bin/browser-manager:281
+msgid "Close"
+msgstr "Chiudi"
+
+#: bin/browser-manager:283
+msgid "About"
+msgstr "Informazioni"
+
+#: lib/browser-manager/brave/install:23 lib/browser-manager/brave/uninstall:22
+#: lib/browser-manager/chrome/install:22 lib/browser-manager/chrome/uninstall:22
+#: lib/browser-manager/chromium/install:22 lib/browser-manager/chromium/uninstall:22
+#: lib/browser-manager/falkon/install:22 lib/browser-manager/falkon/uninstall:22
+#: lib/browser-manager/firefox/install:21 lib/browser-manager/firefox/uninstall:21
+#: lib/browser-manager/opera/install:22 lib/browser-manager/opera/uninstall:22
+#: lib/browser-manager/palemoon/install:22 lib/browser-manager/palemoon/uninstall:22
+#: lib/browser-manager/slimjet/install:22 lib/browser-manager/slimjet/uninstall:22
+#: lib/browser-manager/vivaldi/install:22 lib/browser-manager/vivaldi/uninstall:22
+#: lib/browser-manager/waterfox/install:22 lib/browser-manager/waterfox/uninstall:22
+msgid "Information"
+msgstr "Informazioni"
+
+#: lib/browser-manager/brave/install:23
+msgid "Brave is already installed"
+msgstr "Brave è già installato"
+
+#: lib/browser-manager/brave/install:30 lib/browser-manager/brave/uninstall:30
+#: lib/browser-manager/chrome/install:29 lib/browser-manager/chrome/uninstall:29
+#: lib/browser-manager/chromium/install:29 lib/browser-manager/chromium/uninstall:29
+#: lib/browser-manager/falkon/install:29 lib/browser-manager/firefox/install:27
+#: lib/browser-manager/firefox/uninstall:27 lib/browser-manager/opera/install:29
+#: lib/browser-manager/opera/uninstall:29 lib/browser-manager/palemoon/install:29
+#: lib/browser-manager/palemoon/uninstall:29 lib/browser-manager/slimjet/install:29
+#: lib/browser-manager/slimjet/uninstall:29 lib/browser-manager/vivaldi/install:29
+#: lib/browser-manager/vivaldi/uninstall:29 lib/browser-manager/waterfox/install:29
+#: lib/browser-manager/waterfox/uninstall:29
+msgid "Continue?"
+msgstr "Continuare?"
+
+#: lib/browser-manager/brave/install:30
+msgid ""
+"The use of Brave is governed by the Terms of Use and Privacy Policy found at:\\n\\n"
+"    <a href='https://brave.com/terms-of-use/'>https://brave.com/terms-of-use/</a>\\n"
+"    <a href='https://brave.com/privacy/browser/'>https://brave.com/privacy/browser/</a>\\n\\nAre you sure you want to install Brave?"
+msgstr ""
+"L'utilizzo di Brave è regolato dai Termini di utilizzo e dall'Informativa sulla privacy reperibili"
+"all'indirizzo:\\n\\n    <a href='https://brave.com/terms-of-use/'> https://brave.com/terms-of-use/</a>\\n"
+"    <a href='https://brave.com/privacy/browser/'>https://brave.com/privacy/browser/</a>\\n\\n"
+"Sei sicuro di voler installare Brave?"
+
+#: lib/browser-manager/brave/install:44 lib/browser-manager/chrome/install:43
+#: lib/browser-manager/chromium/install:43 lib/browser-manager/falkon/install:43
+#: lib/browser-manager/firefox/install:41 lib/browser-manager/opera/install:43
+#: lib/browser-manager/palemoon/install:43 lib/browser-manager/slimjet/install:43
+#: lib/browser-manager/vivaldi/install:43 lib/browser-manager/waterfox/install:43
+msgid "Installation Complete"
+msgstr "Installazione Completata"
+
+#: lib/browser-manager/brave/install:44
+msgid "Brave was successfully installed"
+msgstr "Brave è stato installato con successo"
+
+#: lib/browser-manager/brave/install:49
+msgid ""
+"Web Browser Manager couldn't install Brave successfully\n"
+"\n"
+"A log can be found at File System/tmp/brave-install-log"
+msgstr ""
+"Il Web Browser Manager non è riuscito ad installare Brave\n"
+"\n"
+"Un log può essere trovato in File System/tmp/brave-install-log"
+
+#: lib/browser-manager/brave/install:51 lib/browser-manager/brave/install:91
+#: lib/browser-manager/brave/uninstall:55 lib/browser-manager/brave/uninstall:76
+#: lib/browser-manager/chrome/install:49 lib/browser-manager/chrome/install:80
+#: lib/browser-manager/chrome/uninstall:52 lib/browser-manager/chrome/uninstall:73
+#: lib/browser-manager/chromium/install:49 lib/browser-manager/chromium/install:68
+#: lib/browser-manager/chromium/uninstall:53 lib/browser-manager/chromium/uninstall:72
+#: lib/browser-manager/falkon/install:69 lib/browser-manager/falkon/uninstall:52
+#: lib/browser-manager/falkon/uninstall:72 lib/browser-manager/firefox/install:47
+#: lib/browser-manager/firefox/install:67 lib/browser-manager/firefox/uninstall:49
+#: lib/browser-manager/firefox/uninstall:67 lib/browser-manager/opera/install:49
+#: lib/browser-manager/opera/install:79 lib/browser-manager/opera/uninstall:53
+#: lib/browser-manager/opera/uninstall:76 lib/browser-manager/palemoon/install:49
+#: lib/browser-manager/palemoon/install:68 lib/browser-manager/palemoon/uninstall:52
+#: lib/browser-manager/palemoon/uninstall:71 lib/browser-manager/slimjet/install:49
+#: lib/browser-manager/slimjet/install:68 lib/browser-manager/slimjet/uninstall:52
+#: lib/browser-manager/slimjet/uninstall:71 lib/browser-manager/vivaldi/install:49
+#: lib/browser-manager/vivaldi/install:78 lib/browser-manager/vivaldi/uninstall:52
+#: lib/browser-manager/vivaldi/uninstall:74 lib/browser-manager/waterfox/install:49
+#: lib/browser-manager/waterfox/install:78 lib/browser-manager/waterfox/uninstall:52
+#: lib/browser-manager/waterfox/uninstall:74
+msgid "Error"
+msgstr "Errore"
+
+#: lib/browser-manager/brave/install:75 lib/browser-manager/chrome/install:64
+#: lib/browser-manager/opera/install:62 lib/browser-manager/vivaldi/install:62
+#: lib/browser-manager/waterfox/install:62
+msgid "Failed to download keyring"
+msgstr "Scaricamento del keyring fallito"
+
+#: lib/browser-manager/brave/install:91
+msgid "An error occured while initiating the Brave installation process"
+msgstr "E' avvenuto un errore durante l'avvio del processso d'installazione di Brave"
+
+#: lib/browser-manager/brave/uninstall:22
+msgid "Brave is not installed"
+msgstr "Brave non è stato installato"
+
+#: lib/browser-manager/brave/uninstall:30
+msgid "Are you sure you want to remove Brave?"
+msgstr "Sei sicuro di voler rimuovere Brave?"
+
+#: lib/browser-manager/brave/uninstall:48
+msgid "Uninstalled Brave"
+msgstr "Brave è stato disinstallato"
+
+#: lib/browser-manager/brave/uninstall:48
+msgid "Brave was successfully removed"
+msgstr "Brave è stato rimosso correttamente"
+
+#: lib/browser-manager/brave/uninstall:53
+msgid ""
+"Web Browser Manager couldn't remove Brave successfully\n"
+"\n"
+"A log can be found at File System/tmp/brave-removal-log"
+msgstr ""
+"Il Web Browser Manager non è riuscito a rimuovere Brave\n"
+"\n"
+"Un log può essere trovato in File System/tmp/brave-removal-log"
+
+#: lib/browser-manager/brave/uninstall:76
+msgid "An error occured while initiating the Brave removal process"
+msgstr "E' avvenuto un errore durante il processo di rimozione di Brave"
+
+#: lib/browser-manager/chrome/install:22
+msgid "Google Chrome is already installed"
+msgstr "Google Chrome è già installato"
+
+#: lib/browser-manager/chrome/install:29
+msgid ""
+"The use of Chrome is goverened by the Terms of Use and Privacy Policy found at:\\n\\n    <a "
+"href='https://www.google.com/chrome/terms/'>https://www.google.com/chrome/terms/</a>\\n    <a "
+"href='https://www.google.com/chrome/privacy/'>https://www.google.com/chrome/privacy/</a>\\n\\nAre "
+"you sure you want to install Chrome?"
+msgstr ""
+"L'utilizzo di Chrome è regolato dai Termini di utilizzo e dall'Informativa sulla privacy "
+"disponibili all'indirizzo:\\n\\n  <a href='https://www.google.com/ chrome/terms/'>https://www."
+"google.com/chrome/terms/</a>\\n  <a href='https://www.google.com/chrome/privacy/'>https://www."
+"google.com/chrome/privacy/</a>\\n\\nSei sicuro di voler installare Chrome?"
+
+#: lib/browser-manager/chrome/install:43
+msgid "Google Chrome was successfully installed"
+msgstr "Google Chrome è stato installato con successo"
+
+#: lib/browser-manager/chrome/install:47
+msgid ""
+"Web Browser Manager couldn't install Google Chrome successfully\n"
+"\n"
+"A log can be found at File System/tmp/chrome-install-log"
+msgstr ""
+"Il Web Browser Manager non ha potuto installare Google Chrome correttamente\n"
+"\n"
+"Un log può essere trovato in File System/tmp/chrome-install-log"
+
+#: lib/browser-manager/chrome/install:80
+msgid "An error occured while initiating the Google Chrome installation process"
+msgstr "E' avvenuto un errore durante l'avvio del processo d'installazione di Google Chrome"
+
+#: lib/browser-manager/chrome/uninstall:22
+msgid "Google Chrome is not installed"
+msgstr "Google Chrome non è installato"
+
+#: lib/browser-manager/chrome/uninstall:29
+msgid "Are you sure you want to remove Google Chrome?"
+msgstr "Sei sicuro di voler rimuovere Google Chrome?"
+
+#: lib/browser-manager/chrome/uninstall:46
+msgid "Uninstalled Google Chrome"
+msgstr "Google Chrome disinstallato"
+
+#: lib/browser-manager/chrome/uninstall:46
+msgid "Google Chrome was successfully removed"
+msgstr "Google Chrome è stato rimosso con successo"
+
+#: lib/browser-manager/chrome/uninstall:50
+msgid ""
+"Web Browser Manager couldn't remove Google Chrome successfully\n"
+"\n"
+"A log can be found at File System/tmp/chrome-removal-log"
+msgstr ""
+"Il Web Browser Manager non ha potuto rimuovere Google Chrome correttamente\n"
+"\n"
+"Un log può essere trovato in File System/tmp/chrome-removal-log"
+
+#: lib/browser-manager/chrome/uninstall:73
+msgid "An error occured while initiating the Google Chrome removal process"
+msgstr "E' avvenuto un errore durante l'avvio del processo di rimozione di Google Chrome"
+
+#: lib/browser-manager/chromium/install:22
+msgid "Chromium is already installed"
+msgstr "Chromium è già installato"
+
+#: lib/browser-manager/chromium/install:29
+msgid ""
+"The use of Chromium is governed by the Terms of Use and Privacy Policy found at: \\n\\n    <a "
+"href='https://creativecommons.org/licenses/by/2.5/'>https://creativecommons.org/licenses/by/2.5/</"
+"a>\\n    <a href='https://developers.google.com/terms/site-policies'>https://developers.google.com/"
+"terms/site-policies</a>\\n    <a href='https://www.chromium.org/Home/chromium-privacy/'>https://www."
+"chromium.org/Home/chromium-privacy/</a>\\n\\nAre you sure you want to install Chromium?"
+msgstr ""
+"L'utilizzo di Chromium è regolato dai Termini di utilizzo e dall'Informativa sulla privacy "
+"disponibili all'indirizzo: \\n\\n  <a href='https://creativecommons.org /licenses/by/2.5/'>https://"
+"creativecommons.org/licenses/by/2.5/</a>\\n <a href='https://developers.google.com/terms/site-"
+"policies'> https://developers.google.com/terms/site-policies</a>\\n <a href='https://www.chromium."
+"org/Home/chromium-privacy/'>https://www.chromium.org/Home/chromium-privacy/</a>\\n\\nSei sicuro di "
+"voler installare Chromium?"
+
+#: lib/browser-manager/chromium/install:43
+msgid "Chromium was successfully installed"
+msgstr "Chromium è stato installato con successo"
+
+#: lib/browser-manager/chromium/install:47
+msgid ""
+"Web Browser Manager couldn't install Chromium successfully\n"
+"\n"
+"A log can be found at File System/tmp/chromium-install-log"
+msgstr ""
+"Il Web Browser Manager non ha potuto installare Chromium correttamente\n"
+"\n"
+"Un log può essere trovato in File System/tmp/chromium-install-log"
+
+#: lib/browser-manager/chromium/install:68
+msgid "An error occured while initiating the Chromium installation process"
+msgstr "E' avvenuto un errore durante l'avvio del processo d'installazione di Chromium"
+
+#: lib/browser-manager/chromium/uninstall:22
+msgid "Chromium is not installed"
+msgstr "Chromium non è installato"
+
+#: lib/browser-manager/chromium/uninstall:29
+msgid "Are you sure you want to remove Chromium?"
+msgstr "Sei sicuro di voler rimuovere Chromium?"
+
+#: lib/browser-manager/chromium/uninstall:46
+msgid "Uninstalled Chromium"
+msgstr "Chromium disinstallato"
+
+#: lib/browser-manager/chromium/uninstall:46
+msgid "Chromium was successfully removed"
+msgstr "Chromium è stato rimosso con successo"
+
+#: lib/browser-manager/chromium/uninstall:51
+msgid ""
+"Web Browser Manager couldn't remove Chromium successfully\n"
+"\n"
+"A log can be found at File System/tmp/chromium-removal-log"
+msgstr ""
+"Il Web Browser Manager non ha potuto rimuovere Chromium con successo\n"
+"\n"
+"Un log può essere trovato in File System/tmp/chromium-removal-log"
+
+#: lib/browser-manager/chromium/uninstall:72
+msgid "An error occured while initiating the Chromium removal process"
+msgstr "E' avvenuto un errore durante l'avvio del processo di rimozione di Chromium"
+
+#: lib/browser-manager/falkon/install:22
+msgid "Falkon is already installed"
+msgstr "Falkon è già installato"
+
+#: lib/browser-manager/falkon/install:29
+msgid ""
+"The use of Falkon is governed by the Terms of Use and Privacy Policy found at: \\n\\n    <a "
+"href='https://community.kde.org/Policies/Licensing_Policy'>https://community.kde.org/Policies/"
+"Licensing_Policy</a>\\n    <a href='https://kde.org/privacypolicy-apps/'>https://kde.org/"
+"privacypolicy-apps/</a>\\n\\nAre you sure you want to install Falkon?"
+msgstr ""
+"L'utilizzo di Falkon è regolato dai Termini d'uso e dall'Informativa sulla privacy disponibili "
+"all'indirizzo: \\n\\n  <a href='https://community.kde.org/Policies/Licensing_Policy'>https://"
+"community.kde.org/Policies/Licensing_Policy</a>\\n <a href='https://kde.org/privacypolicy-"
+"apps/'>https://kde.org/privacypolicy-apps/</a>\\n\\nSei sicuro di voler installare Falkon?"
+
+#: lib/browser-manager/falkon/install:43
+msgid "Falkon was successfully installed"
+msgstr "Falkon è stato installato con successo"
+
+#: lib/browser-manager/falkon/install:47
+msgid ""
+"Web Browser Manager couldn't install Falkon successfully\n"
+"\n"
+"A log can be found at File System/tmp/falkon-install-log"
+msgstr ""
+"Il Web Browser Manager non è riuscito ad installare Falkon correttamente\n"
+"\n"
+"Un log può essere trovato in File System/tmp/falkon-install-log"
+
+#: lib/browser-manager/falkon/install:69
+msgid "An error occured while initiating the Falkon installation process"
+msgstr "E' avvenuto un errore durante l'avvio del processo d'installazione di Falkon"
+
+#: lib/browser-manager/falkon/uninstall:22
+msgid "Falkon is not installed"
+msgstr "Falkon non è installato"
+
+#: lib/browser-manager/falkon/uninstall:29
+msgid "Are you sure you want to remove Falkon?"
+msgstr "Sei sicuro di voler rimuovere Falkon?"
+
+#: lib/browser-manager/falkon/uninstall:46
+msgid "Uninstalled Falkon"
+msgstr "Falkon disinstallato"
+
+#: lib/browser-manager/falkon/uninstall:46
+msgid "Falkon was successfully removed"
+msgstr "Falkon è stato rimosso con successo"
+
+#: lib/browser-manager/falkon/uninstall:50
+msgid ""
+"Web Browser Manager couldn't remove Falkon successfully\n"
+"\n"
+"A log can be found at File System/tmp/falkon-removal-log"
+msgstr ""
+"Il Web Browser Manager non è riuscito a rimuovere Falkon correttamente\n"
+"\n"
+"Un log può essere trovato in File System/tmp/falkon-removal-log"
+
+#: lib/browser-manager/falkon/uninstall:72
+msgid "An error occured while initiating the Falkon removal process"
+msgstr "E' avvenuto un errore durante l'avvio del processo di rimozione di Falkon"
+
+#: lib/browser-manager/firefox/install:21
+msgid "Mozilla Firefox is already installed"
+msgstr "Mozilla Firefox è già installato"
+
+#: lib/browser-manager/firefox/install:27
+msgid ""
+"The use of Mozilla Firefox is governed by the Terms found at:\\n\\n    <a href='https://www.mozilla."
+"org/en-US/about/legal/terms/firefox/'>https://www.mozilla.org/en-US/about/legal/terms/firefox/</"
+"a>\\n\\nAre you sure you want to install Mozilla Firefox?"
+msgstr ""
+"L'utilizzo di Mozilla Firefox è regolato dai Termini disponibili all'indirizzo:\\n\\n  <a "
+"href='https://www.mozilla.org/it/about/legal/terms/firefox/'>https://www.mozilla.org/it/about/legal/"
+"terms/firefox/</a>\\n\\nSei sicuro di voler installare Mozilla Firefox?"
+
+#: lib/browser-manager/firefox/install:41
+msgid "Mozilla Firefox was successfully installed"
+msgstr "Mozilla Firefox è stato installato con successo"
+
+#: lib/browser-manager/firefox/install:45
+msgid ""
+"Web Browser Manager couldn't install Mozilla Firefox successfully\n"
+"\n"
+"A log can be found at File System/tmp/firefox-install-log"
+msgstr ""
+"Il Web Browser Manager non è riuscito a installare Mozilla Firefox correttamente\n"
+"\n"
+"Un log può essere trovato in File System/tmp/firefox-install-log"
+
+#: lib/browser-manager/firefox/install:67
+msgid "An error occured while initiating the Mozilla Firefox installation process"
+msgstr "E' avvenuto un errore durante l'avvio del processo di installazione di Mozilla Firefox"
+
+#: lib/browser-manager/firefox/uninstall:21
+msgid "Mozilla Firefox is not installed"
+msgstr "Mozilla Firefox non è installato"
+
+#: lib/browser-manager/firefox/uninstall:27
+msgid "Are you sure you want to remove Mozilla Firefox?"
+msgstr "Sei sicuro di voler rimuovere Mozilla Firefox?"
+
+#: lib/browser-manager/firefox/uninstall:43
+msgid "Uninstalled Mozilla Firefox"
+msgstr "Mozilla Firefox disinstallato"
+
+#: lib/browser-manager/firefox/uninstall:43
+msgid "Mozilla Firefox was successfully removed"
+msgstr "Mozilla Firefox è stato rimosso con successo"
+
+#: lib/browser-manager/firefox/uninstall:47
+msgid ""
+"Web Browser Manager couldn't remove Mozilla Firefox successfully\n"
+"\n"
+"A log can be found at File System/tmp/firefox-removal-log"
+msgstr ""
+"Il Web Browser Manager non è riuscito a rimuovere Mozilla Firefox correttamente\n"
+"\n"
+"Un log può essere trovato in File System/tmp/firefox-removal-log"
+
+#: lib/browser-manager/firefox/uninstall:67
+msgid "An error occured while initiating the Mozilla Firefox removal process"
+msgstr "E' avvenuto un errore durante l'avvio del processo di rimozione di Mozilla Firefox"
+
+#: lib/browser-manager/opera/install:22
+msgid "Opera is already installed"
+msgstr "Opera è già installato"
+
+#: lib/browser-manager/opera/install:29
+msgid ""
+"The use of Opera is governed by the Terms of Use and Privacy Policy found at:\\n\\n    <a "
+"href='https://www.opera.com/terms'>https://www.opera.com/terms</a>\\n    <a href='https://www.opera."
+"com/privacy'>https://www.opera.com/privacy</a>\\n\\nAre you sure you want to install Opera?"
+msgstr ""
+"L'utilizzo di Opera è regolato dai Termini di utilizzo e dall'Informativa sulla privacy disponibili "
+"all'indirizzo:\\n\\n   <a href='https://www.opera.com/terms'>https://www.opera.com/terms</a>\\n   "
+"<a href='https://www.opera.com/privacy'>https://www.opera.com/privacy</a>\\n\\nSei sicuro di voler "
+"installare Opera?"
+
+#: lib/browser-manager/opera/install:43
+msgid "Opera was successfully installed"
+msgstr "Opera è stato installato con successo"
+
+#: lib/browser-manager/opera/install:47
+msgid ""
+"Web Browser Manager couldn't install Opera successfully\n"
+" \n"
+" A log can be found at File System/tmp/opera-install-log"
+msgstr ""
+"Il Web Browser Manager non ha potuto installare Opera correttamente\n"
+" \n"
+" Un log può essere trovato in File System/tmp/opera-install-log"
+
+#: lib/browser-manager/opera/install:79
+msgid "An error occured while initiating the Opera installation process"
+msgstr "E' avvenuto un errore durante l'avvio del processo di installazione di Opera"
+
+#: lib/browser-manager/opera/uninstall:22
+msgid "Opera is not installed"
+msgstr "Opera non è installato"
+
+#: lib/browser-manager/opera/uninstall:29
+msgid "Are you sure you want to remove Opera?"
+msgstr "Sei sicuro di voler rimuovere Opera?"
+
+#: lib/browser-manager/opera/uninstall:47
+msgid "Uninstalled Opera"
+msgstr "Opera disinstallato"
+
+#: lib/browser-manager/opera/uninstall:47
+msgid "Opera was successfully removed"
+msgstr "Opera è stato rimosso con successo"
+
+#: lib/browser-manager/opera/uninstall:51
+msgid ""
+"Web Browser Manager couldn't remove Opera successfully\n"
+"\n"
+"A log can be found at File System/tmp/opera-removal-log"
+msgstr ""
+"Il Web Browser Manager non ha potuto rimuovere Opera correttamente\n"
+"\n"
+"Un log può essere trovato in File System/tmp/opera-removal-log"
+
+#: lib/browser-manager/opera/uninstall:76
+msgid "An error occured while initiating the Opera removal process"
+msgstr "E' avvenuto un errore durante l'avvio del processo di rimozione di Opera"
+
+#: lib/browser-manager/palemoon/install:22
+msgid "Palemoon is already installed"
+msgstr "Palemoon è già installato"
+
+#: lib/browser-manager/palemoon/install:29
+msgid ""
+"The use of Palemoon is governed by the Terms of Use and Privacy Policy found at:\\n\\n    <a "
+"href='https://www.palemoon.org/licensing.shtml'>https://www.palemoon.org/licensing.shtml</a>\\n    "
+"<a href='https://www.palemoon.org/policies/privacy.shtml'>https://www.palemoon.org/policies/privacy."
+"shtml</a>\\n\\nAre you sure you want to install Palemoon?"
+msgstr ""
+"L'utilizzo di Palemoon è regolato dai Termini di utilizzo e dall'Informativa sulla privacy "
+"disponibili all'indirizzo:\\n\\n   <a href='https://www.palemoon.org/licensing.shtml'>https://www."
+"palemoon.org/licensing.shtml</a>\\n   <a href='https://www.palemoon.org/policies/privacy."
+"shtml'>https://www.palemoon.org/policies/privacy.shtml</a>\\n\\nSei sicuro di voler installare "
+"Palemoon?"
+
+#: lib/browser-manager/palemoon/install:43
+msgid "Palemoon was successfully installed"
+msgstr "Palemoon è stato installato con successo"
+
+#: lib/browser-manager/palemoon/install:47
+msgid ""
+"Web Browser Manager couldn't install Palemoon successfully\n"
+"\n"
+"A log can be found at File System/tmp/palemoon-install-log"
+msgstr ""
+"Il Web Browser Manager non ha potuto installare Palemoon correttamente\n"
+"\n"
+"Un log può essere trovato in File System/tmp/palemoon-install-log"
+
+#: lib/browser-manager/palemoon/uninstall:22
+msgid "Palemoon is not installed"
+msgstr "Palemoon non è installato"
+
+#: lib/browser-manager/palemoon/uninstall:29
+msgid "Are you sure you want to remove Palemoon?"
+msgstr "Sei sicuro di voler rimuovere Palemoon?"
+
+#: lib/browser-manager/palemoon/uninstall:46
+msgid "Uninstalled Palemoon"
+msgstr "Palemoon disinstallato"
+
+#: lib/browser-manager/palemoon/uninstall:46
+msgid "Palemoon was successfully removed"
+msgstr "Palemoon è stato rimosso con successo"
+
+#: lib/browser-manager/palemoon/uninstall:50
+msgid ""
+"Web Browser Manager couldn't remove Palemoon successfully\n"
+"\n"
+"A log can be found at File System/tmp/palemoon-removal-log"
+msgstr ""
+"Il Web Browser Manager non è riuscito a rimuovere Palemoon correttamente\n"
+"\n"
+"Un log può essere trovato in File System/tmp/palemoon-removal-log"
+
+#: lib/browser-manager/palemoon/uninstall:71
+msgid "An error occured while initiating the Palemoon removal process"
+msgstr "E' avvenuto un errore durante l'avvio del processo di rimozione di Palemoon"
+
+#: lib/browser-manager/slimjet/install:22
+msgid "Slimjet is already installed"
+msgstr "Slimjet è già installato"
+
+#: lib/browser-manager/slimjet/install:29
+msgid ""
+"The use of Slimjet is governed by the Terms of Use and Privacy Policy found at:\\n\\n    <a "
+"href='https://www.gnu.org/philosophy/philosophy.html'>https://www.gnu.org/philosophy/philosophy."
+"html</a>\\n    <a href='https://wiki.gnome.org/Apps/Web/PrivacyPolicy'>https://wiki.gnome.org/Apps/"
+"Web/PrivacyPolicy</a>\\n\\nAre you sure you want to install Slimjet?"
+msgstr ""
+"L'utilizzo di Slimjet è regolato dai Termini di utilizzo e dall'Informativa sulla privacy "
+"disponibili all'indirizzo:\\n\\n  <a href='https://www.gnu.org/philosophy/philosophy.html'>https://"
+"www.gnu.org/philosophy/philosophy.html</a>\\n  <a href='https://wiki.gnome.org/Apps/Web/"
+"PrivacyPolicy'>https://wiki.gnome.org/Apps/Web/PrivacyPolicy</a>\\n\\nSei sicuro di voler "
+"installare Slimjet?"
+
+#: lib/browser-manager/slimjet/install:43
+msgid "Slimjet was successfully installed"
+msgstr "Slimjet è stato installato con successo"
+
+#: lib/browser-manager/slimjet/install:47
+msgid ""
+"Web Browser Manager couldn't install Slimjet successfully\n"
+"\n"
+"A log can be found at File System/tmp/slimjet-install-log"
+msgstr ""
+"Il Web Browser Manager non ha potuto installare Slimjet correttamente\n"
+"\n"
+"Un log può essere trovato in File System/tmp/slimjet-install-log"
+
+#: lib/browser-manager/slimjet/install:68
+msgid "An error occured while initiating the Slimjet installation process"
+msgstr "E' avvenuto un errore durante l'avvio del processo di installazione di Slimjet"
+
+#: lib/browser-manager/slimjet/uninstall:22
+msgid "Slimjet is not installed"
+msgstr "Slimjet non è installato"
+
+#: lib/browser-manager/slimjet/uninstall:29
+msgid "Are you sure you want to remove Slimjet?"
+msgstr "Sei sicuro di voler rimuovere Slimjet?"
+
+#: lib/browser-manager/slimjet/uninstall:46
+msgid "Uninstalled Slimjet"
+msgstr "Slimjet disinstallato"
+
+#: lib/browser-manager/slimjet/uninstall:46
+msgid "Slimjet was successfully removed"
+msgstr "Slimjet è stato rimosso con successo"
+
+#: lib/browser-manager/slimjet/uninstall:50
+msgid ""
+"Web Browser Manager couldn't remove Slimjet successfully\n"
+"\n"
+"A log can be found at File System/tmp/slimjet-removal-log"
+msgstr ""
+"Il Web Browser Manager non ha potuto rimuovere Slimjet correttamente\n"
+"Un log può essere trovato in File System/tmp/slimjet-removal-log"
+
+#: lib/browser-manager/slimjet/uninstall:71
+msgid "An error occured while initiating the Slimjet removal process."
+msgstr "E' avvenuto un errore durante l'avvio del processo di rimozione di Slimjet."
+
+#: lib/browser-manager/vivaldi/install:22
+msgid "Vivaldi is already installed"
+msgstr "Vivaldi è già installato"
+
+#: lib/browser-manager/vivaldi/install:29
+msgid ""
+"The usage of Vivaldi is governed by the Vivaldi EULA and Privacy Policy found at:\\n\\n    <a "
+"href='https://vivaldi.com/privacy/vivaldi-end-user-license-agreement/'>https://vivaldi.com/privacy/"
+"vivaldi-end-user-license-agreement/</a>\\n    <a href='https://vivaldi.com/privacy/"
+"browser/'>https://vivaldi.com/privacy/browser/</a>\\n\\nAre you sure you want to install Vivaldi?"
+msgstr ""
+"L'utilizzo di Vivaldi è regolato dall'EULA e dall'Informativa sulla privacy di Vivaldi, disponibili "
+"all'indirizzo:\\n\\n  <a href='https://vivaldi.com/privacy/vivaldi-end-user-license-"
+"agreement/'>https://vivaldi.com/privacy/vivaldi-end-user-license-agreement/</a>\\n  <a "
+"href='https://vivaldi.com/privacy/browser/'>https://vivaldi.com/privacy/browser/</a>\\n\\nSei "
+"sicuro di voler installare Vivaldi?"
+
+#: lib/browser-manager/vivaldi/install:43
+msgid "Vivaldi was successfully installed"
+msgstr "Vivaldi è stato installato con successo"
+
+#: lib/browser-manager/vivaldi/install:47
+msgid ""
+"Web Browser Manager couldn't install Vivaldi successfully\n"
+"\n"
+"A log can be found at File System/tmp/vivaldi-install-log"
+msgstr ""
+"Il Web Browser Manager non ha potuto installare Vivaldi correttamente\n"
+"\n"
+"Un log può essere trovato in File System/tmp/vivaldi-install-log"
+
+#: lib/browser-manager/vivaldi/install:78
+msgid "An error occured while initiating the Vivaldi installation process"
+msgstr "E' avvenuto un errore durante l'avvio del processo d'installazione di Vivaldi"
+
+#: lib/browser-manager/vivaldi/uninstall:22
+msgid "Vivaldi is not installed"
+msgstr "Vivaldi non è installato"
+
+#: lib/browser-manager/vivaldi/uninstall:29
+msgid "Are you sure you want to remove Vivaldi?"
+msgstr "Sei sicuro di voler rimuovere Vivaldi?"
+
+#: lib/browser-manager/vivaldi/uninstall:46
+msgid "Uninstalled Vivaldi"
+msgstr "Vivaldi disinstallato"
+
+#: lib/browser-manager/vivaldi/uninstall:46
+msgid "Vivaldi was successfully removed"
+msgstr "Vivaldi è stato rimosso con successo"
+
+#: lib/browser-manager/vivaldi/uninstall:50
+msgid ""
+"Web Browser Manager couldn't remove Vivaldi successfully\n"
+"\n"
+"A log can be found at File System/tmp/vivaldi-removal-log"
+msgstr ""
+"Il Web browser Manager non ha potuto rimuovere Vivaldi con successo\n"
+"\n"
+"Un log può essere trovato in File System/tmp/vivaldi-removal-log"
+
+#: lib/browser-manager/vivaldi/uninstall:74
+msgid "An error occured while initiating the Vivaldi removal process"
+msgstr "E' avvenuto un errore durante l'avvio del processo di rimozione di Vivaldi"
+
+#: lib/browser-manager/waterfox/install:22
+msgid "Waterfox is already installed"
+msgstr "Waterfox è già installato"
+
+#: lib/browser-manager/waterfox/install:29
+msgid ""
+"The use of Waterfox is governed by the Terms of Use and Privacy Policy found at:\\n\\n    <a "
+"href='https://www.waterfox.net/docs/policies/terms'>https://www.waterfox.net/docs/policies/terms</"
+"a>\\n    <a href='https://www.waterfox.net/docs/policies/privacy'>https://www.waterfox.net/docs/"
+"policies/privacy</a>\\n\\nAre you sure you want to install Waterfox?"
+msgstr ""
+"L'utilizzo di Waterfox è regolato dai Termini di utilizzo e dall'Informativa sulla privacy "
+"disponibili all'indirizzo:\\n\\n  <a href='https://www.waterfox.net/docs/policies/terms'>https://"
+"www.waterfox.net/docs/policies/terms</a>\\n  <a href='https://www.waterfox.net/docs/policies/"
+"privacy'>https://www.waterfox.net/docs/policies/privacy</a>\\n\\nSei sicuro di voler installare "
+"Waterfox?"
+
+#: lib/browser-manager/waterfox/install:43
+msgid "Waterfox was successfully installed"
+msgstr "Waterfox è stato installato con successo"
+
+#: lib/browser-manager/waterfox/install:47
+msgid ""
+"Web Browser Manager couldn't install Waterfox successfully\n"
+"\n"
+"A log can be found at File System/tmp/waterfox-install-log"
+msgstr ""
+"Il Web Browser Manager non ha potuto installare Waterfox correttamente\n"
+"Un log può essere trovato in File System/tmp/waterfox-install-log"
+
+#: lib/browser-manager/waterfox/install:78
+msgid "An error occured while initiating the Waterfox installation process"
+msgstr "E' avvenuto un errore durante l'avvio del processo di rimozine di Waterfox"
+
+#: lib/browser-manager/waterfox/uninstall:22
+msgid "Waterfox is not installed"
+msgstr "Waterfox non è installato"
+
+#: lib/browser-manager/waterfox/uninstall:29
+msgid "Are you sure you want to remove Waterfox?"
+msgstr "Sei sicuro di voler rimuovere Waterfox?"
+
+#: lib/browser-manager/waterfox/uninstall:50
+msgid ""
+"Web Browser Manager couldn't remove Waterfox successfully\n"
+"\n"
+"A log can be found at File System/tmp/waterfox-removal-log"
+msgstr ""
+"Il Web Browser Manager non ha potuto rimuover Waterfox correttamente\n"
+"\n"
+"Un log può essere trovato in File System/tmp/waterfox-removal-log"
+
+#: lib/browser-manager/waterfox/uninstall:74
+msgid "An error occured while initiating the Waterfox removal process"
+msgstr "E' avvenuto un errore durante l'avvio del processo di rimozione di Waterfox"
