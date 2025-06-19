@@ -92,7 +92,8 @@ msgstr ""
 msgid "About"
 msgstr ""
 
-#: lib/browser-manager/brave/install:23 lib/browser-manager/brave/uninstall:22
+#: lib/browser-manager/brave/install:23 
+#: lib/browser-manager/brave/uninstall:22
 #: lib/browser-manager/chrome/install:22
 #: lib/browser-manager/chrome/uninstall:22
 #: lib/browser-manager/chromium/install:22
@@ -101,7 +102,8 @@ msgstr ""
 #: lib/browser-manager/falkon/uninstall:22
 #: lib/browser-manager/firefox/install:21
 #: lib/browser-manager/firefox/uninstall:21
-#: lib/browser-manager/opera/install:22 lib/browser-manager/opera/uninstall:22
+#: lib/browser-manager/opera/install:22 
+#: lib/browser-manager/opera/uninstall:22
 #: lib/browser-manager/palemoon/install:22
 #: lib/browser-manager/palemoon/uninstall:22
 #: lib/browser-manager/slimjet/install:22
@@ -117,7 +119,8 @@ msgstr ""
 msgid "Brave is already installed"
 msgstr ""
 
-#: lib/browser-manager/brave/install:30 lib/browser-manager/brave/uninstall:30
+#: lib/browser-manager/brave/install:30 
+#: lib/browser-manager/brave/uninstall:30
 #: lib/browser-manager/chrome/install:29
 #: lib/browser-manager/chrome/uninstall:29
 #: lib/browser-manager/chromium/install:29
@@ -125,7 +128,8 @@ msgstr ""
 #: lib/browser-manager/falkon/install:29
 #: lib/browser-manager/firefox/install:27
 #: lib/browser-manager/firefox/uninstall:27
-#: lib/browser-manager/opera/install:29 lib/browser-manager/opera/uninstall:29
+#: lib/browser-manager/opera/install:29 
+#: lib/browser-manager/opera/uninstall:29
 #: lib/browser-manager/palemoon/install:29
 #: lib/browser-manager/palemoon/uninstall:29
 #: lib/browser-manager/slimjet/install:29
@@ -144,10 +148,12 @@ msgid ""
 "    <a href='https://brave.com/privacy/browser/'>https://brave.com/privacy/browser/</a>\\n\\nAre you sure you want to install Brave?"
 msgstr ""
 
-#: lib/browser-manager/brave/install:44 lib/browser-manager/chrome/install:43
+#: lib/browser-manager/brave/install:44 
+#: lib/browser-manager/chrome/install:43
 #: lib/browser-manager/chromium/install:43
 #: lib/browser-manager/falkon/install:43
-#: lib/browser-manager/firefox/install:41 lib/browser-manager/opera/install:43
+#: lib/browser-manager/firefox/install:41 
+#: lib/browser-manager/opera/install:43
 #: lib/browser-manager/palemoon/install:43
 #: lib/browser-manager/slimjet/install:43
 #: lib/browser-manager/vivaldi/install:43
@@ -208,8 +214,10 @@ msgstr ""
 msgid "Error"
 msgstr ""
 
-#: lib/browser-manager/brave/install:75 lib/browser-manager/chrome/install:64
-#: lib/browser-manager/opera/install:62 lib/browser-manager/vivaldi/install:62
+#: lib/browser-manager/brave/install:75 
+#: lib/browser-manager/chrome/install:64
+#: lib/browser-manager/opera/install:62 
+#: lib/browser-manager/vivaldi/install:62
 #: lib/browser-manager/waterfox/install:62
 msgid "Failed to download keyring"
 msgstr ""
