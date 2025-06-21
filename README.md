@@ -14,7 +14,7 @@ The Web Browser Manager is a utility designed to assist you in managing the web 
 
 * The Web Browser-Manager works by adding PPAs for some of the browsers not in the Ubuntu or Bodhi repos. Bodhi linux is not reponsible for the packaging or suitability of any browser installed from third party repos. All browers are installed via deb files, no snap or flatpack installations supported.
 
-* The web browsers offered by this application do not reflect and endorsement by Bodhi Linux of the offered product. Some may reguire minor tweaking to obtain a consistent look with your desktop (Moksha) or GTK theme. The security of whatever web browser you install is your responsibilty. Some web browsers offered are Proprietary and not open soiurce. If this matters to you install only FOSS browsers.
+* The web browsers offered by this application do not reflect and endorsement by Bodhi Linux of the offered product. Some may reguire minor tweaking to obtain a consistent look with your desktop (Moksha) or GTK theme. The security of whatever web browser you install is your responsibilty. Some web browsers offered are Proprietary and not open source. If this matters to you install only FOSS browsers.
 
 # Contributing
 
