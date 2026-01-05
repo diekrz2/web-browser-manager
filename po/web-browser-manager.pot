@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Package Name\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-01 05:30+0100\n"
-"PO-Revision-Date: 2011-01-01 05:30+0100\n"
+"POT-Creation-Date: 2025-01-01 05:30+0100\n"
+"PO-Revision-Date: 2025-01-01 05:30+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -18,33 +18,414 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 
+#: browser-manager:112
+msgid ""
+"The Brave browser is an open-source web browser that is built upon the "
+"Chromium engine. \n"
+"It stands out from other browsers due to its focus on privacy and security, "
+"achieved through \n"
+"its ability to block ads and trackers. This feature ensures that users can "
+"surf the web \n"
+"without being tracked by advertisers and other third-party entities.\n"
+"\n"
+"\n"
+"In addition, Brave offers a built-in cryptocurrency wallet and a rewards "
+"program that \n"
+"incentivizes users to view ads, which are presented as optional "
+"notifications.\n"
+"\n"
+"\n"
+"Overall, Brave is a user-friendly and secure browser that empowers users to "
+"take control \n"
+"of their online privacy.\n"
+"\n"
+"\n"
+"Based on: Chromium\n"
+"\n"
+"License: MPL-2.0 license\n"
+"\n"
+"Extra Repositories: Brave Browser's Repository"
+msgstr ""
+
+#: browser-manager:124
+msgid ""
+"Google Chrome is a popular freeware web browser developed by Google. Chrome  "
+"has several features \n"
+"to enhance the browsing experience. Chrome supports a wide range of "
+"extensions, which are small \n"
+"programs that add new functionality to the browser. Some popular extensions "
+"include ad blockers, \n"
+"password managers, and productivity tools. Users can download extensions "
+"from the Chrome Web Store, \n"
+"which has a large library of free and paid extensions.\n"
+"\n"
+"\n"
+"Finally, Chrome has several security features to protect users from malware "
+"and phishing attacks. \n"
+"It uses sandboxing technology to isolate websites and plugins from the rest "
+"of the system, and \n"
+"it has a built-in phishing and malware protection system that warns users "
+"when they visit a \n"
+"suspicious website.\n"
+"\n"
+"\n"
+"Overall, Chrome is a fast, feature-rich, and secure web browser that is "
+"popular among users around \n"
+"the world.\n"
+"\n"
+"\n"
+"Based on: Chromium\n"
+"\n"
+"License: Proprietary freeware, based on open source components\n"
+"\n"
+"Extra Repositories: Google Chrome's Repository"
+msgstr ""
+
+#: browser-manager:139
+msgid ""
+"Chromium is an open-source web browser project that serves as the foundation "
+"for many other web browsers, \n"
+"including Google Chrome, Opera, and Microsoft Edge. It is developed by the "
+"Chromium Project, which is led \n"
+"by Google and a community of developers. It shares a lot of the GUI that "
+"Google Chrome has, but \n"
+"with an alternative logo and some other features missing.\n"
+"\n"
+"\n"
+"Overall, Chromium is a powerful and flexible web browser that serves as the "
+"foundation for many \n"
+"popular web browsers. It is a good choice for users who value open-source "
+"software and want more control \n"
+"over their browsing experience.\n"
+"\n"
+"\n"
+"Based on: N/A\n"
+"\n"
+"License: BSD 3-Clause 'New' or 'Revised' License\n"
+"\n"
+"Extra Repositories: None"
+msgstr ""
+
+#: browser-manager:150
+msgid ""
+"Falkon is a free and open-source web browser. It was initially released as "
+"QupZilla, but it was later \n"
+"renamed to Falkon. Falkon is built on the Qt WebEngine, which is based on "
+"the Chromium project. \n"
+"This means that Falkon can render web pages quickly and accurately, and \n"
+"it supports most modern web technologies.\n"
+"\n"
+"\n"
+"Falkon also has a clean and user-friendly interface that is easy to "
+"navigate, based in part on \n"
+"Firefox's old design, a familiar look and feel as well as an Opera-like "
+"'Speed dial' home page. \n"
+"It includes several built-in tools and features, such as a built-in AdBlock, "
+"a download manager, \n"
+"and a password manager. It also supports extensions, which can be downloaded "
+"from the KDE store \n"
+"or other sources.\n"
+"\n"
+"\n"
+"In addition, Falkon has several security features to protect users from "
+"online threats. \n"
+"It includes a built-in ad blocker, a Do Not Track feature, and support for "
+"HTTPS Everywhere.\n"
+"\n"
+"\n"
+"Overall, Falkon is a fast, lightweight, and feature-rich web browser that is "
+"a good choice for users \n"
+"who value open-source software and want a fast and secure browsing "
+"experience.\n"
+"\n"
+"\n"
+"Based on: QtWebEngine (a wrapper for the Chromium browser core)\n"
+"\n"
+"License: GPL-3.0 or later\n"
+"\n"
+"Extra Repositories: None"
+msgstr ""
+
+#: browser-manager:167
+msgid ""
+"Firefox is a free and open-source web browser developed by Mozilla "
+"Foundation. One of the most notable \n"
+"features of Firefox is its add-on system, which allows users to install "
+"third-party extensions that can \n"
+"enhance the browser's functionality in a variety of ways. Firefox also "
+"includes a range of built-in \n"
+"features, such as a password manager, a pop-up blocker, and a download "
+"manager.\n"
+"\n"
+"\n"
+"Firefox is also well-known for its commitment to user privacy and security. "
+"It includes a range of \n"
+"privacy features, such as the ability to block third-party cookies, prevent "
+"tracking by advertisers, \n"
+"and use encrypted connections wherever possible. Firefox also includes a "
+"built-in password manager \n"
+"that can generate strong passwords and store them securely.\n"
+"\n"
+"\n"
+"Overall, Firefox is a fast, secure, and flexible web browser that is well-"
+"suited to users who value \n"
+"privacy and customization.\n"
+"\n"
+"\n"
+"Based on: N/A\n"
+"\n"
+"License: MPL 2.0\n"
+"\n"
+"Extra Repositories: None"
+msgstr ""
+
+#: browser-manager:181
+msgid ""
+"Opera is a freeware web browser based on Chromium, but distinguishes itself "
+"from other Chromium-based \n"
+"browsers through its user interface and other features.\n"
+"\n"
+"\n"
+"Opera is known for its speed, security, and user-friendly interface. It "
+"includes a number of features \n"
+"that make browsing the web more enjoyable and efficient. For example, it has "
+"a built-in ad blocker \n"
+"that blocks most advertisements, a battery saver mode that extends the life "
+"of laptop batteries, \n"
+"and a free VPN service that allows users to browse the web anonymously and "
+"access content that may be \n"
+"restricted in their region.\n"
+"\n"
+"\n"
+"Opera also has a number of unique features that set it apart from other web "
+"browsers. For example, \n"
+"it has a sidebar that allows users to access their bookmarks, history, and "
+"other features without \n"
+"having to open a separate window. It also has a built-in messaging service "
+"that allows users to chat \n"
+"with their friends without having to open a separate messaging app.\n"
+"\n"
+"\n"
+"Overall, Opera is a reliable and feature-rich web browser that is a popular "
+"choice for many users. \n"
+"Its speed, security, and unique features make it a great option for anyone "
+"looking for a fast and \n"
+"efficient browsing experience.\n"
+"\n"
+"\n"
+"Based on: Chromium\n"
+"\n"
+"License: Proprietary freeware, based on open source components\n"
+"\n"
+"Extra Repositories: Opera Browser's Repository"
+msgstr ""
+
+#: browser-manager:199
+msgid ""
+"Pale Moon is a web browser based on Mozilla Firefox. Pale Moon is designed "
+"to be lightweight and fast, \n"
+"with a focus on providing a streamlined browsing experience for users. It "
+"uses a forked version of the \n"
+"Gecko rendering engine, but with a number of optimizations and modifications "
+"to improve performance and \n"
+"reduce memory usage.\n"
+"\n"
+"\n"
+"One of the distinctive features of Pale Moon is its support for classic "
+"Firefox add-ons, which are no \n"
+"longer compatible with the latest versions of Firefox. This allows users to "
+"customize their browsing \n"
+"experience with a wide range of add-ons and extensions that are no longer "
+"available in other \n"
+"modern browsers.\n"
+"\n"
+"\n"
+"Pale Moon also offers a range of features that are designed to enhance the "
+"privacy and security of its users. \n"
+"These include support for Do Not Track, which allows users to indicate that "
+"they do not want their browsing \n"
+"activity tracked by websites, and a built-in option to block third-party "
+"cookies.\n"
+"\n"
+"Overall, Pale Moon is a \n"
+"solid choice for users who are looking for a lightweight and customizable "
+"web browser that offers good \n"
+"performance and support for classic Firefox add-ons.\n"
+"\n"
+"\n"
+"Based on: Mozilla Firefox\n"
+"\n"
+"License: MPL 2.0\n"
+"\n"
+"Extra Repositories: None"
+msgstr ""
+
+#: browser-manager:216
+msgid ""
+"Slimjet is a web browser based on the open-source Chromium project. Slimjet "
+"has many features that distinguish \n"
+"it from other Chromium-based browsers. It includes a built-in ad blocker, "
+"pop-up blocker, and video downloader. \n"
+"Slimjet also has a turbocharged download manager, which can accelerate "
+"download speeds by up to 12 times. \n"
+"Additionally, it offers a range of customization options, including the "
+"ability to change the browser's appearance, \n"
+"add or remove buttons, and customize the start page.\n"
+"\n"
+"\n"
+"One of the most notable features of Slimjet is its emphasis on privacy and "
+"security. It includes a secure site feature \n"
+"that warns users when they visit a potentially harmful website, and it also "
+"offers a range of privacy options, \n"
+"including the ability to block third-party cookies and prevent websites from "
+"tracking your browsing activity.\n"
+"\n"
+"\n"
+"Slimjet also offers a range of productivity features, including a "
+"customizable toolbar, a quick fill form filler, \n"
+"and the ability to take screenshots and annotate them directly within the "
+"browser.\n"
+"\n"
+"\n"
+"Overall, Slimjet is a fast, secure, and feature-rich browser that is well-"
+"suited to users who value privacy and \n"
+"productivity.\n"
+"\n"
+"\n"
+"Based on: Chromium\n"
+"\n"
+"License: Proprietary freeware, based on open source components\n"
+"\n"
+"Extra Repositories: None"
+msgstr ""
+
+#: browser-manager:232
+msgid ""
+"Vivaldi is a web browser based on the open-source Chromium project, and "
+"designed to be highly customizable and \n"
+"feature-rich, with a focus on power users who want a browser that can be "
+"tailored to their specific needs.\n"
+"\n"
+"\n"
+"One of Vivaldi's most notable features is its ability to customize its "
+"appearance. Users can choose from a variety \n"
+"of themes, adjust the browser's color scheme, and even set custom background "
+"images for different tabs. \n"
+"Vivaldi also allows users to stack tabs together, which can help to reduce "
+"clutter and improve organization.\n"
+"\n"
+"\n"
+"Another key feature of Vivaldi is its robust set of browsing tools. For "
+"example, it includes a powerful built-in \n"
+"note-taking tool, which allows users to take notes directly in the browser "
+"and even take screenshots and add \n"
+"annotations. Vivaldi also includes a customizable keyboard shortcut system, "
+"which can help users to save time \n"
+"and work more efficiently.\n"
+"\n"
+"\n"
+"Vivaldi is also focused on user privacy and security. It includes a built-in "
+"ad blocker, as well as a range of \n"
+"privacy features that allow users to block third-party cookies and prevent "
+"websites from tracking their activity.\n"
+"\n"
+"\n"
+"Overall, Vivaldi is a highly customizable and feature-rich browser that is "
+"well-suited to power users who want a \n"
+"browser that can be tailored to their specific needs.\n"
+"\n"
+"\n"
+"Based on: Chromium\n"
+"\n"
+"License: BSD-3 and Proprietary\n"
+"\n"
+"Extra Repositories: Vivaldi's Official Repository"
+msgstr ""
+
+#: browser-manager:249
+msgid ""
+"Waterfox is a free and open-source web browser that is based on Mozilla "
+"Firefox. The browser is designed to be \n"
+"compatible with Firefox extensions and themes, while also being optimized "
+"for 64-bit operating systems. \n"
+"Waterfox includes several features that are not available in Firefox, such "
+"as support for older plugins and \n"
+"the ability to import bookmarks and settings from other browsers.\n"
+"\n"
+"\n"
+"One of the primary reasons people use Waterfox is because it is a privacy-"
+"focused browser. It doesn't track user \n"
+"activity, and it has built-in privacy features, including tracking "
+"protection and the ability to disable WebRTC. \n"
+"Additionally, Waterfox is designed to use less memory than Firefox, which "
+"can make it a good choice for users who \n"
+"are running older or slower computers.\n"
+"\n"
+"\n"
+"Overall, Waterfox is a good option for users who want a high-performance, "
+"privacy-focused web browser that is \n"
+"compatible with Firefox extensions.\n"
+"\n"
+"\n"
+"Based on: Mozilla Firefox\n"
+"\n"
+"License: MPL-2.0\n"
+"\n"
+"Extra Repositories: Unofficial Waterfox Repository"
+msgstr ""
+
+#: browser-manager:263
+msgid ""
+"The Web Browser Manager is a utility designed to assist you in managing the "
+"web browsers installed on your \n"
+"computer. With just a few clicks, you can select from a range of browsers "
+"and quickly identify the one that best \n"
+"suits your needs.\n"
+"\n"
+"\n"
+"Copyright (GPLv3):\n"
+"\n"
+"\n"
+"- Bodhi Linux Team (2022-2023)\n"
+"\n"
+"- Feren OS Developer (2015-2020)\n"
+"\n"
+"- AZorin (2010-2015)\n"
+"\n"
+"- ZorinK (2010)\n"
+"\n"
+"\n"
+"\n"
+"Web Browser Manager is distributed in the hope that it will be useful, but "
+"WITHOUT ANY WARRANTY; without even the \n"
+"implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See "
+"Version 3 of the GNU General Public \n"
+"License for more details."
+msgstr ""
+
 #: bin/browser-manager:184
 msgid "About Brave"
 msgstr ""
 
-#: bin/browser-manager:186 bin/browser-manager:195 bin/browser-manager:205
-#: bin/browser-manager:215 bin/browser-manager:225 bin/browser-manager:234
-#: bin/browser-manager:244 bin/browser-manager:255 bin/browser-manager:265
-#: bin/browser-manager:275 bin/browser-manager:338 bin/browser-manager:342
-#: bin/browser-manager:351 bin/browser-manager:355 bin/browser-manager:364
-#: bin/browser-manager:368 bin/browser-manager:377 bin/browser-manager:381
-#: bin/browser-manager:390 bin/browser-manager:394 bin/browser-manager:403
-#: bin/browser-manager:407 bin/browser-manager:416 bin/browser-manager:420
-#: bin/browser-manager:429 bin/browser-manager:433 bin/browser-manager:442
-#: bin/browser-manager:446 bin/browser-manager:455 bin/browser-manager:459
+#: bin/browser-manager:186 bin/browser-manager:195 bin/browser-manager:205 bin/browser-manager:215
+#: bin/browser-manager:225 bin/browser-manager:234 bin/browser-manager:244 bin/browser-manager:255
+#: bin/browser-manager:265 bin/browser-manager:275 bin/browser-manager:338 bin/browser-manager:342
+#: bin/browser-manager:351 bin/browser-manager:355 bin/browser-manager:364 bin/browser-manager:368
+#: bin/browser-manager:377 bin/browser-manager:381 bin/browser-manager:390 bin/browser-manager:394
+#: bin/browser-manager:403 bin/browser-manager:407 bin/browser-manager:416 bin/browser-manager:420
+#: bin/browser-manager:429 bin/browser-manager:433 bin/browser-manager:442 bin/browser-manager:446
+#: bin/browser-manager:455 bin/browser-manager:459
 msgid "Uninstall"
 msgstr ""
 
-#: bin/browser-manager:186 bin/browser-manager:195 bin/browser-manager:205
-#: bin/browser-manager:215 bin/browser-manager:225 bin/browser-manager:234
-#: bin/browser-manager:244 bin/browser-manager:255 bin/browser-manager:265
-#: bin/browser-manager:275 bin/browser-manager:337 bin/browser-manager:343
-#: bin/browser-manager:350 bin/browser-manager:356 bin/browser-manager:363
-#: bin/browser-manager:369 bin/browser-manager:376 bin/browser-manager:382
-#: bin/browser-manager:389 bin/browser-manager:395 bin/browser-manager:402
-#: bin/browser-manager:408 bin/browser-manager:415 bin/browser-manager:421
-#: bin/browser-manager:428 bin/browser-manager:434 bin/browser-manager:441
-#: bin/browser-manager:447 bin/browser-manager:454 bin/browser-manager:460
+#: bin/browser-manager:186 bin/browser-manager:195 bin/browser-manager:205 bin/browser-manager:215
+#: bin/browser-manager:225 bin/browser-manager:234 bin/browser-manager:244 bin/browser-manager:255
+#: bin/browser-manager:265 bin/browser-manager:275 bin/browser-manager:337 bin/browser-manager:343
+#: bin/browser-manager:350 bin/browser-manager:356 bin/browser-manager:363 bin/browser-manager:369
+#: bin/browser-manager:376 bin/browser-manager:382 bin/browser-manager:389 bin/browser-manager:395
+#: bin/browser-manager:402 bin/browser-manager:408 bin/browser-manager:415 bin/browser-manager:421
+#: bin/browser-manager:428 bin/browser-manager:434 bin/browser-manager:441 bin/browser-manager:447
+#: bin/browser-manager:454 bin/browser-manager:460
 msgid "Install"
 msgstr ""
 
@@ -94,23 +475,23 @@ msgstr ""
 
 #: lib/browser-manager/brave/install:23 
 #: lib/browser-manager/brave/uninstall:22
-#: lib/browser-manager/chrome/install:22
+#: lib/browser-manager/chrome/install:22 
 #: lib/browser-manager/chrome/uninstall:22
-#: lib/browser-manager/chromium/install:22
+#: lib/browser-manager/chromium/install:22 
 #: lib/browser-manager/chromium/uninstall:22
-#: lib/browser-manager/falkon/install:22
+#: lib/browser-manager/falkon/install:22 
 #: lib/browser-manager/falkon/uninstall:22
-#: lib/browser-manager/firefox/install:21
+#: lib/browser-manager/firefox/install:21 
 #: lib/browser-manager/firefox/uninstall:21
 #: lib/browser-manager/opera/install:22 
 #: lib/browser-manager/opera/uninstall:22
-#: lib/browser-manager/palemoon/install:22
+#: lib/browser-manager/palemoon/install:22 
 #: lib/browser-manager/palemoon/uninstall:22
-#: lib/browser-manager/slimjet/install:22
+#: lib/browser-manager/slimjet/install:22 
 #: lib/browser-manager/slimjet/uninstall:22
-#: lib/browser-manager/vivaldi/install:22
+#: lib/browser-manager/vivaldi/install:22 
 #: lib/browser-manager/vivaldi/uninstall:22
-#: lib/browser-manager/waterfox/install:22
+#: lib/browser-manager/waterfox/install:22 
 #: lib/browser-manager/waterfox/uninstall:22
 msgid "Information"
 msgstr ""
@@ -121,21 +502,21 @@ msgstr ""
 
 #: lib/browser-manager/brave/install:30 
 #: lib/browser-manager/brave/uninstall:30
-#: lib/browser-manager/chrome/install:29
+#: lib/browser-manager/chrome/install:29 
 #: lib/browser-manager/chrome/uninstall:29
-#: lib/browser-manager/chromium/install:29
+#: lib/browser-manager/chromium/install:29 
 #: lib/browser-manager/chromium/uninstall:29
-#: lib/browser-manager/falkon/install:29
+#: lib/browser-manager/falkon/install:29 
 #: lib/browser-manager/firefox/install:27
-#: lib/browser-manager/firefox/uninstall:27
-#: lib/browser-manager/opera/install:29 
-#: lib/browser-manager/opera/uninstall:29
+#: lib/browser-manager/firefox/uninstall:27 
+#: lib/browser-manager/opera/install:29
+#: lib/browser-manager/opera/uninstall:29 
 #: lib/browser-manager/palemoon/install:29
-#: lib/browser-manager/palemoon/uninstall:29
+#: lib/browser-manager/palemoon/uninstall:29 
 #: lib/browser-manager/slimjet/install:29
-#: lib/browser-manager/slimjet/uninstall:29
+#: lib/browser-manager/slimjet/uninstall:29 
 #: lib/browser-manager/vivaldi/install:29
-#: lib/browser-manager/vivaldi/uninstall:29
+#: lib/browser-manager/vivaldi/uninstall:29 
 #: lib/browser-manager/waterfox/install:29
 #: lib/browser-manager/waterfox/uninstall:29
 msgid "Continue?"
@@ -145,18 +526,19 @@ msgstr ""
 msgid ""
 "The use of Brave is governed by the Terms of Use and Privacy Policy found at:\\n\\n"
 "    <a href='https://brave.com/terms-of-use/'>https://brave.com/terms-of-use/</a>\\n"
-"    <a href='https://brave.com/privacy/browser/'>https://brave.com/privacy/browser/</a>\\n\\nAre you sure you want to install Brave?"
+"    <a href='https://brave.com/privacy/browser/'>https://brave.com/privacy/browser/</a>\\n\\n"
+"Are you sure you want to install Brave?"
 msgstr ""
 
 #: lib/browser-manager/brave/install:44 
 #: lib/browser-manager/chrome/install:43
-#: lib/browser-manager/chromium/install:43
+#: lib/browser-manager/chromium/install:43 
 #: lib/browser-manager/falkon/install:43
 #: lib/browser-manager/firefox/install:41 
 #: lib/browser-manager/opera/install:43
-#: lib/browser-manager/palemoon/install:43
+#: lib/browser-manager/palemoon/install:43 
 #: lib/browser-manager/slimjet/install:43
-#: lib/browser-manager/vivaldi/install:43
+#: lib/browser-manager/vivaldi/install:43 
 #: lib/browser-manager/waterfox/install:43
 msgid "Installation Complete"
 msgstr ""
@@ -174,41 +556,41 @@ msgstr ""
 
 #: lib/browser-manager/brave/install:51 
 #: lib/browser-manager/brave/install:91
-#: lib/browser-manager/brave/uninstall:55
+#: lib/browser-manager/brave/uninstall:55 
 #: lib/browser-manager/brave/uninstall:76
 #: lib/browser-manager/chrome/install:49 
 #: lib/browser-manager/chrome/install:80
-#: lib/browser-manager/chrome/uninstall:52
+#: lib/browser-manager/chrome/uninstall:52 
 #: lib/browser-manager/chrome/uninstall:73
-#: lib/browser-manager/chromium/install:49
+#: lib/browser-manager/chromium/install:49 
 #: lib/browser-manager/chromium/install:68
-#: lib/browser-manager/chromium/uninstall:53
+#: lib/browser-manager/chromium/uninstall:53 
 #: lib/browser-manager/chromium/uninstall:72
-#: lib/browser-manager/falkon/install:69
+#: lib/browser-manager/falkon/install:69 
 #: lib/browser-manager/falkon/uninstall:52
-#: lib/browser-manager/falkon/uninstall:72
+#: lib/browser-manager/falkon/uninstall:72 
 #: lib/browser-manager/firefox/install:47
-#: lib/browser-manager/firefox/install:67
+#: lib/browser-manager/firefox/install:67 
 #: lib/browser-manager/firefox/uninstall:49
-#: lib/browser-manager/firefox/uninstall:67
-#: lib/browser-manager/opera/install:49 
-#: lib/browser-manager/opera/install:79
+#: lib/browser-manager/firefox/uninstall:67 
+#: lib/browser-manager/opera/install:49
+#: lib/browser-manager/opera/install:79 
 #: lib/browser-manager/opera/uninstall:53
-#: lib/browser-manager/opera/uninstall:76
+#: lib/browser-manager/opera/uninstall:76 
 #: lib/browser-manager/palemoon/install:49
-#: lib/browser-manager/palemoon/install:68
+#: lib/browser-manager/palemoon/install:68 
 #: lib/browser-manager/palemoon/uninstall:52
-#: lib/browser-manager/palemoon/uninstall:71
+#: lib/browser-manager/palemoon/uninstall:71 
 #: lib/browser-manager/slimjet/install:49
-#: lib/browser-manager/slimjet/install:68
+#: lib/browser-manager/slimjet/install:68 
 #: lib/browser-manager/slimjet/uninstall:52
-#: lib/browser-manager/slimjet/uninstall:71
+#: lib/browser-manager/slimjet/uninstall:71 
 #: lib/browser-manager/vivaldi/install:49
-#: lib/browser-manager/vivaldi/install:78
+#: lib/browser-manager/vivaldi/install:78 
 #: lib/browser-manager/vivaldi/uninstall:52
-#: lib/browser-manager/vivaldi/uninstall:74
+#: lib/browser-manager/vivaldi/uninstall:74 
 #: lib/browser-manager/waterfox/install:49
-#: lib/browser-manager/waterfox/install:78
+#: lib/browser-manager/waterfox/install:78 
 #: lib/browser-manager/waterfox/uninstall:52
 #: lib/browser-manager/waterfox/uninstall:74
 msgid "Error"
@@ -259,11 +641,10 @@ msgstr ""
 
 #: lib/browser-manager/chrome/install:29
 msgid ""
-"The use of Chrome is goverened by the Terms of Use and Privacy Policy found "
-"at:\\n\\n    <a href='https://www.google.com/chrome/terms/'>https://www."
-"google.com/chrome/terms/</a>\\n    <a href='https://www.google.com/chrome/"
-"privacy/'>https://www.google.com/chrome/privacy/</a>\\n\\nAre you sure you "
-"want to install Chrome?"
+"The use of Chrome is goverened by the Terms of Use and Privacy Policy found at:\\n\\n    <a "
+"href='https://www.google.com/chrome/terms/'>https://www.google.com/chrome/terms/</a>\\n    <a "
+"href='https://policies.google.com/privacy'>https://policies.google.com/privacy</a>\\n\\nAre "
+"you sure you want to install Chrome?"
 msgstr ""
 
 #: lib/browser-manager/chrome/install:43
@@ -278,8 +659,7 @@ msgid ""
 msgstr ""
 
 #: lib/browser-manager/chrome/install:80
-msgid ""
-"An error occured while initiating the Google Chrome installation process"
+msgid "An error occured while initiating the Google Chrome installation process"
 msgstr ""
 
 #: lib/browser-manager/chrome/uninstall:22
@@ -315,13 +695,11 @@ msgstr ""
 
 #: lib/browser-manager/chromium/install:29
 msgid ""
-"The use of Chromium is governed by the Terms of Use and Privacy Policy found "
-"at: \\n\\n    <a href='https://creativecommons.org/licenses/by/2.5/'>https://"
-"creativecommons.org/licenses/by/2.5/</a>\\n    <a href='https://developers."
-"google.com/terms/site-policies'>https://developers.google.com/terms/site-"
-"policies</a>\\n    <a href='https://www.chromium.org/Home/chromium-"
-"privacy/'>https://www.chromium.org/Home/chromium-privacy/</a>\\n\\nAre you "
-"sure you want to install Chromium?"
+"The use of Chromium is governed by the Terms of Use and Privacy Policy found at: \\n\\n    <a "
+"href='https://creativecommons.org/licenses/by/2.5/'>https://creativecommons.org/licenses/by/2.5/</"
+"a>\\n    <a href='https://developers.google.com/terms/site-policies'>https://developers.google.com/"
+"terms/site-policies</a>\\n    <a href='https://www.chromium.org/Home/chromium-privacy/'>https://www."
+"chromium.org/Home/chromium-privacy/</a>\\n\\nAre you sure you want to install Chromium?"
 msgstr ""
 
 #: lib/browser-manager/chromium/install:43
@@ -372,10 +750,9 @@ msgstr ""
 
 #: lib/browser-manager/falkon/install:29
 msgid ""
-"The use of Falkon is governed by the Terms of Use and Privacy Policy found "
-"at: \\n\\n    <a href='https://community.kde.org/Policies/"
-"Licensing_Policy'>https://community.kde.org/Policies/Licensing_Policy</a>"
-"\\n    <a href='https://kde.org/privacypolicy-apps/'>https://kde.org/"
+"The use of Falkon is governed by the Terms of Use and Privacy Policy found at: \\n\\n    <a "
+"href='https://community.kde.org/Policies/Licensing_Policy'>https://community.kde.org/Policies/"
+"Licensing_Policy</a>\\n    <a href='https://kde.org/privacypolicy-apps/'>https://kde.org/"
 "privacypolicy-apps/</a>\\n\\nAre you sure you want to install Falkon?"
 msgstr ""
 
@@ -414,7 +791,7 @@ msgstr ""
 msgid ""
 "Web Browser Manager couldn't remove Falkon successfully\n"
 "\n"
-"        A log can be found at File System/tmp/falkon-removal-log"
+"A log can be found at File System/tmp/falkon-removal-log"
 msgstr ""
 
 #: lib/browser-manager/falkon/uninstall:72
@@ -427,10 +804,9 @@ msgstr ""
 
 #: lib/browser-manager/firefox/install:27
 msgid ""
-"The use of Mozilla Firefox is governed by the Terms found at:\\n\\n    <a "
-"href='https://www.mozilla.org/en-US/about/legal/terms/firefox/'>https://www."
-"mozilla.org/en-US/about/legal/terms/firefox/</a>\\n\\nAre you sure you want "
-"to install Mozilla Firefox?"
+"The use of Mozilla Firefox is governed by the Terms found at:\\n\\n    <a href='https://www.mozilla."
+"org/en-US/about/legal/terms/firefox/'>https://www.mozilla.org/en-US/about/legal/terms/firefox/</"
+"a>\\n\\nAre you sure you want to install Mozilla Firefox?"
 msgstr ""
 
 #: lib/browser-manager/firefox/install:41
@@ -445,8 +821,7 @@ msgid ""
 msgstr ""
 
 #: lib/browser-manager/firefox/install:67
-msgid ""
-"An error occured while initiating the Mozilla Firefox installation process."
+msgid "An error occured while initiating the Mozilla Firefox installation process"
 msgstr ""
 
 #: lib/browser-manager/firefox/uninstall:21
@@ -482,10 +857,9 @@ msgstr ""
 
 #: lib/browser-manager/opera/install:29
 msgid ""
-"The use of Opera is governed by the Terms of Use and Privacy Policy found at:"
-"\\n\\n    <a href='https://www.opera.com/terms'>https://www.opera.com/terms</"
-"a>\\n    <a href='https://www.opera.com/privacy'>https://www.opera.com/"
-"privacy</a>\\n\\nAre you sure you want to install Opera?"
+"The use of Opera is governed by the Terms of Use and Privacy Policy found at:\\n\\n    <a "
+"href='https://www.opera.com/terms'>https://www.opera.com/terms</a>\\n    <a href='https://www.opera."
+"com/privacy'>https://www.opera.com/privacy</a>\\n\\nAre you sure you want to install Opera?"
 msgstr ""
 
 #: lib/browser-manager/opera/install:43
@@ -495,8 +869,8 @@ msgstr ""
 #: lib/browser-manager/opera/install:47
 msgid ""
 "Web Browser Manager couldn't install Opera successfully\n"
-"\n"
-"A log can be found at File System/tmp/opera-install-log"
+" \n"
+" A log can be found at File System/tmp/opera-install-log"
 msgstr ""
 
 #: lib/browser-manager/opera/install:79
@@ -536,11 +910,10 @@ msgstr ""
 
 #: lib/browser-manager/palemoon/install:29
 msgid ""
-"The use of Palemoon is governed by the Terms of Use and Privacy Policy found "
-"at:\\n\\n    <a href='https://www.palemoon.org/licensing.shtml'>https://www."
-"palemoon.org/licensing.shtml</a>\\n    <a href='https://www.palemoon.org/"
-"policies/privacy.shtml'>https://www.palemoon.org/policies/privacy.shtml</a>"
-"\\n\\nAre you sure you want to install Palemoon?"
+"The use of Palemoon is governed by the Terms of Use and Privacy Policy found at:\\n\\n    <a "
+"href='https://www.palemoon.org/legal.shtml'>https://www.palemoon.org/legal.shtml</a>\\n    "
+"<a href='https://www.palemoon.org/policies/privacy.shtml'>https://www.palemoon.org/policies/privacy."
+"shtml</a>\\n\\nAre you sure you want to install Palemoon?"
 msgstr ""
 
 #: lib/browser-manager/palemoon/install:43
@@ -587,11 +960,10 @@ msgstr ""
 
 #: lib/browser-manager/slimjet/install:29
 msgid ""
-"The use of Slimjet is governed by the Terms of Use and Privacy Policy found "
-"at:\\n\\n    <a href='https://www.gnu.org/philosophy/philosophy."
-"html'>https://www.gnu.org/philosophy/philosophy.html</a>\\n    <a "
-"href='https://wiki.gnome.org/Apps/Web/PrivacyPolicy'>https://wiki.gnome.org/"
-"Apps/Web/PrivacyPolicy</a>\\n\\nAre you sure you want to install Slimjet?"
+"The use of Slimjet is governed by the Terms of Use and Privacy Policy found at:\\n\\n    <a "
+"href='https://www.gnu.org/philosophy/philosophy.html'>https://www.gnu.org/philosophy/philosophy."
+"html</a>\\n    <a href='https://wiki.gnome.org/Apps/Web/PrivacyPolicy'>https://wiki.gnome.org/Apps/"
+"Web/PrivacyPolicy</a>\\n\\nAre you sure you want to install Slimjet?"
 msgstr ""
 
 #: lib/browser-manager/slimjet/install:43
@@ -642,12 +1014,10 @@ msgstr ""
 
 #: lib/browser-manager/vivaldi/install:29
 msgid ""
-"The usage of Vivaldi is governed by the Vivaldi EULA and Privacy Policy "
-"found at:\\n\\n    <a href='https://vivaldi.com/privacy/vivaldi-end-user-"
-"license-agreement/'>https://vivaldi.com/privacy/vivaldi-end-user-license-"
-"agreement/</a>\\n    <a href='https://vivaldi.com/privacy/browser/'>https://"
-"vivaldi.com/privacy/browser/</a>\\n\\nAre you sure you want to install "
-"Vivaldi?"
+"The usage of Vivaldi is governed by the Vivaldi EULA and Privacy Policy found at:\\n\\n    <a "
+"href='https://vivaldi.com/privacy/vivaldi-end-user-license-agreement/'>https://vivaldi.com/privacy/"
+"vivaldi-end-user-license-agreement/</a>\\n    <a href='https://vivaldi.com/privacy/"
+"browser/'>https://vivaldi.com/privacy/browser/</a>\\n\\nAre you sure you want to install Vivaldi?"
 msgstr ""
 
 #: lib/browser-manager/vivaldi/install:43
@@ -698,11 +1068,10 @@ msgstr ""
 
 #: lib/browser-manager/waterfox/install:29
 msgid ""
-"The use of Waterfox is governed by the Terms of Use and Privacy Policy found "
-"at:\\n\\n    <a href='https://www.waterfox.net/docs/policies/terms'>https://"
-"www.waterfox.net/docs/policies/terms</a>\\n    <a href='https://www.waterfox."
-"net/docs/policies/privacy'>https://www.waterfox.net/docs/policies/privacy</a>"
-"\\n\\nAre you sure you want to install Waterfox?"
+"The use of Waterfox is governed by the Terms of Use and Privacy Policy found at:\\n\\n    <a "
+"href='https://www.waterfox.net/docs/policies/terms'>https://www.waterfox.net/docs/policies/terms</"
+"a>\\n    <a href='https://www.waterfox.net/docs/policies/privacy'>https://www.waterfox.net/docs/"
+"policies/privacy</a>\\n\\nAre you sure you want to install Waterfox?"
 msgstr ""
 
 #: lib/browser-manager/waterfox/install:43
